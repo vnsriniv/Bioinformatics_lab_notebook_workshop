@@ -30,3 +30,5 @@ You can install it directly from their [website](https://atom.io/).
 4. Using markdown and Atom for creating a bioinformatics lab notebook
 
 5. Using Git for Version Control
+
+6. What is this missing? Can it have the "reproducible" descriptor?
