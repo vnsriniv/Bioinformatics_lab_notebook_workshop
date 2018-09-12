@@ -15,3 +15,7 @@ Lets search for a few packages that I found useful.
 These should be enough for now for some basic functionality for our lab notebook. If you require something, just google it and you will probably find that somebody has figured out how to solve your problem by creating a package for you.
 
 **Aaah! the beauty of open-source software!**
+
+## Using Git with Atom
+
+Using Git with Atom is as simple as pressing `Ctrl+9`. If you have already initialized git tracking in your directory as we did before, any changes you make will appear as unstaged changes in the right panel.
