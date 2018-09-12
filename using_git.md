@@ -1,5 +1,6 @@
 # Using Git
 I am not going to try to reinvent the wheel here. Software Carpentry has a great [tutorial](https://swcarpentry.github.io/git-novice/) that you should go through if you want to use Git and GitHub. Here I am going cover a few basic commands for the purpose of this workshop. This won't be comprehensive but will hopefully take away some fear associated with using Git (which I had.. you might be different!)
+
 ## Basic Commands
 
 Let us first create an empty directory where we are going to create a lab notebook for a project.
@@ -67,3 +68,14 @@ git log
 ```
 
 This will show you a list of commits with time and date stamps and corresponding messages you added.
+
+One of the actions I often perform is to clone another person's git repository. The easiest way to do it is to get the link for the repo like below
+
+![clone_git_repo](assets/using_git-6ff96.png)
+
+and copy the link and use the command
+
+```
+git clone https://github.com/vnsriniv/CompBio-Lab-Notebook-Workshop.git
+```
+This will clone all the file and subfolders in the repo into your computer for your own personal use.
