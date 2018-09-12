@@ -21,14 +21,14 @@ You can install it directly from their [website](https://atom.io/).
 
 ## Agenda
 
-1. What are the important features for a lab (wet/dry) notebook?
+1. **What are the important features for a lab (wet/dry) notebook?**
 
-2. What are some unique requirements for a bioinformatics lab notebook?
+2. **What are some unique requirements for a bioinformatics lab notebook?**
 
-3. My previous attempts at a bioinformatics lab notebook
+3. **My previous attempts at a bioinformatics lab notebook**
 
-4. Using markdown and Atom for creating a bioinformatics lab notebook
+4. **Using markdown and Atom for creating a bioinformatics lab notebook**
 
-5. Using Git for Version Control
+5. **Using Git for Version Control**
 
-6. What is this missing? Can it have the "reproducible" descriptor?
+6. **What is this missing? Can it have the "reproducible" descriptor?**
